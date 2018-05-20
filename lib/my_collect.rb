@@ -7,7 +7,3 @@ def my_collect(array)
   end
   final_array
 end
-
-my_collect(array) do |x| 
-  
-end
